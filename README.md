@@ -1,5 +1,5 @@
 # andrelinos.github.io
-Esta página foi desenvolvida com a ajuda da vídeo aula feita por [**Rafael Magalhães**](https://rafaelmbsouza.github.io/) disponível no [**Youtube**](https://www.youtube.com/watch?v=MAjuVJ2XjaE) como parte do projeto [**reboot**](https://rebootnow.dev/) realizado pela @rocketseat {[**Rocketseat**](https://rocketseat.com.br/)} com o apoio de: 
+Esta página foi desenvolvida com a ajuda da vídeo aula feita por [**Rafael Magalhães**](https://rafaelmbsouza.github.io/) disponível no [**Youtube**](https://www.youtube.com/watch?v=MAjuVJ2XjaE) como parte do projeto [**reboot**](https://rebootnow.dev/) realizado pela [@rocketseat](https://github.com/Rocketseat) {[**Rocketseat**](https://rocketseat.com.br/)} com o apoio de: 
 - [**shawee**](https://shawee.io/) 
 - [**codenation**](https://www.codenation.dev/)
 - [**bossabox**](https://bossabox.com/) 
@@ -27,8 +27,8 @@ Para acessar a página, basta acessar o link: https://andrelinos.github.io/
 - Crie uma pasta qualquer onde desejar em seu computador.
 - Clique no botão *Clone or download*.
 - Clique em Download ou apenas copie a URL para realizar um clone do diretório. E para fazer o clone do diretório é o seguinte: 
-- - Depois de copiar a URL, abra seu terminal. 
-- - Digite: 
+- Depois de copiar a URL, abra seu terminal. 
+- Digite: 
 ```zs
 git clone git@github.com:andrelinos/andrelinos.github.io.git
 ```
