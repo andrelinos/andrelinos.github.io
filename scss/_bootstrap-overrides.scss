@@ -1,0 +1,24 @@
+.bg-primary {
+  background-color: $primary !important;
+}
+
+.text-primary {
+  color: $rocket !important;
+}
+
+.text-span-primary {
+  color: $megaman !important;
+}
+
+a {
+  color: $primary;
+  &:hover,
+  &:focus,
+  &:active {
+    color: darken($primary, 15%);
+  }
+}
+
+.mb-5 a {
+  color: $megaman;
+}
